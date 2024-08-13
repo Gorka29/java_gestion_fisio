@@ -1,0 +1,1 @@
+web: java -jar target/gestion_citas_fisioterapeuta-0.0.1-SNAPSHOT.jar
